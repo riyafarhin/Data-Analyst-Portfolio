@@ -1,9 +1,9 @@
 # Data Analyst 
 
 ### Education
-Doctor of Pharmacy (PharmD) - PCOM GA
-M.S. Biological Sciences - Mississippi College
-B.A. General Studies: Psychology - Florida Atlantic University
+- Doctor of Pharmacy (PharmD) - PCOM GA
+- M.S. Biological Sciences - Mississippi College
+- B.A. General Studies: Psychology - Florida Atlantic University
 
 ### Professional Experience
 Research Data Analyst @ PCOM GA
